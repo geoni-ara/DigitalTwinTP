@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Test.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\cha98\Documents\GitHub\DigitalTwinTP\Test\Intermediate\Build\Win64\x64\TestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\cha98\Documents\GitHub\DigitalTwinTP\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\Test.init.gen.cpp.obj"
+"C:\Users\cha98\Documents\GitHub\DigitalTwinTP\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\TestActor.gen.cpp.obj"
+"C:\Users\cha98\Documents\GitHub\DigitalTwinTP\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\Test.cpp.obj"
+"C:\Users\cha98\Documents\GitHub\DigitalTwinTP\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\TestActor.cpp.obj"
+"C:\Users\cha98\Documents\GitHub\DigitalTwinTP\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\Default.rc2.res"
+/OUT:"C:\Users\cha98\Documents\GitHub\DigitalTwinTP\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\UnrealEditor-Test.lib"
