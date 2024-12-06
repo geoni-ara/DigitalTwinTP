@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\cha98\\documents\\github\\digitaltwintp\\test\\source\\test\\test.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\cha98\\documents\\github\\digitaltwintp\\test\\intermediate\\build\\win64\\x64\\testeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\cha98\\documents\\github\\digitaltwintp\\test\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\test\\definitions.test.h",
+            "c:\\users\\cha98\\documents\\github\\digitaltwintp\\test\\source\\test\\test.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
